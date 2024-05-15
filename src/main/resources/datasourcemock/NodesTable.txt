@@ -1,0 +1,9 @@
+;ID Name
+1 Mountainbike
+40 Front Wheel
+50 circle/front-wheel
+60 frame
+77 back wheel
+88 brakes
+99 spokes
+100 circle/back-wheel
